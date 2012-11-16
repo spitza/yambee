@@ -1,8 +1,7 @@
 <html>
 <body>
 
-Welcome <?php echo $_POST["fname"]; ?>!<br />
-You are <?php echo $_POST["age"]; ?> years old.
+That's kind right, you spelled it <?php echo $_POST["fname"]; ?>!<br />
 
 </body>
 </html>
